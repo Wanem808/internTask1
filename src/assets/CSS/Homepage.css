@@ -1,0 +1,26 @@
+.container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background: url('../../Images/Image5.jpg') ;
+    background-size: cover;
+    background-color: rgba(0,0,0,0.5);
+    color: aliceblue;
+  }
+.content {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px ;
+  }
+  .description{
+    max-width: 70%;
+    padding-left: 12rem;
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  h1{
+    font-size: 80px;
+  }
