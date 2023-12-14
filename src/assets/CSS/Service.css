@@ -1,0 +1,19 @@
+.serivce-image {
+  height: 200px;
+  width: 100%;
+  object-fit: fill;
+}
+.service {
+  background-color: rgb(172, 163, 163);
+  height: 250px;
+}
+
+.feature-list {
+  border: 1px solid;
+  width: 49%;
+  background: #7d7878;
+  color: white;
+  padding-left: 12px;
+  padding-top: 10px;
+  
+}

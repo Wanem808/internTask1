@@ -1,0 +1,22 @@
+.about-row {
+  padding: 0px 10px 0 10px !important;
+}
+
+.about {
+  height: 100px;
+  width: 100%;
+  object-fit: cover;
+}
+.about-us {
+  padding: 0 40px 0 40px;
+}
+.col-3 {
+  object-fit: cover;
+  padding: unset;
+}
+.about-us-wrapper {
+  margin-top: -32px;
+  color: white !important;
+  background: #655858;
+  height: calc(100vh - 40px);
+}
